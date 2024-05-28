@@ -1,0 +1,35 @@
+body {
+    background-image: url("download.jpg");
+    background-size: cover;
+}
+
+.main {
+    padding: 20px;
+    color: whitesmoke;
+}
+
+.nav {
+  background-color: black;
+  position: sticky;
+  top: 0;
+  padding-right: 30px;
+}
+
+.nav-link {
+    color: whitesmoke
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+    color: whitesmoke;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+    right: 50%;
+}
+
+
